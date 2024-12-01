@@ -64,6 +64,6 @@
   <summary>Social</summary>
   <br>
 
-  [![Discord Badge](https://lanyard.cnrad.dev/api/857550997248802837?borderRadius=5px&animated=true&hideDiscrim=false)](https://discord.com/users/857550997248802837)
+  [![Discord Badge](https://lanyard.cnrad.dev/api/877526857711493150?borderRadius=5px&animated=true&hideDiscrim=false)](https://discord.com/users/857550997248802837)
   
 </details>
