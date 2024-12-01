@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
 <div align="center">
-  <h1><pre>Hi, I'm qndz08 (Nothing)</pre></h1>
+  <h1><pre>Hi, I'm qmdz08 (Nothing)</pre></h1>
 </div>
 
 Life for me not for anyone else
