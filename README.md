@@ -70,7 +70,7 @@ https://test.dvcode.id.vn/ascii-maker
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,wordpress,laravel"> </a>
     <h3>- Tools:</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,replit,cloudflare,ae,au,ai,ps,pr,blender"> </a>
-    <h3>- Operating Systems</h3>
+    <h3>- Operating Systems:</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows"> </a>
   </p>
 </details>
