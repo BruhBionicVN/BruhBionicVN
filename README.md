@@ -23,26 +23,35 @@ Life for me not for anyone else
 
 ##### Password Manager
 https://hosting3wn.id.vn/
+<br>
 https://dvcode.id.vn/
 
 ##### JS Obfuscator
 https://obf.hosting3wn.id.vn/
+<br>
 https://obf.dvcode.id.vn/
 
 ##### PHP Encoder
 https://phpenc.hosting3wn.id.vn/
+<br>
 https://phpenc.dvcode.id.vn/
 
 ##### PHP Editor
 https://onlinephp.hosting3wn.id.vn/
+<br>
 https://onlinephp.dvcode.id.vn/
 
 ##### More Tools (Text to Speech, WHOIS domain, ASCII Maker)
 https://test.hosting3wn.id.vn/
+<br>
 https://test.dvcode.id.vn/
+<br>
 https://test.hosting3wn.id.vn/whois
+<br>
 https://test.dvcode.id.vn/whois
+<br>
 https://test.hosting3wn.id.vn/ascii-maker
+<br>
 https://test.dvcode.id.vn/ascii-maker
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBruhBionicVN&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -80,7 +89,7 @@ https://test.dvcode.id.vn/ascii-maker
   
 </details>
 
-<details>
+<details open>
   <summary><h2 align="center">🌏 Social</h2></summary>
   <br>
 
