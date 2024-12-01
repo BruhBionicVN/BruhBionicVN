@@ -65,9 +65,9 @@ https://test.dvcode.id.vn/ascii-maker
 
   <p align="center">
     <h3>- Languages:</h3> 
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,py,lua,htmx,powershell,bash,c,cpp,cs,java,kotlin,swift"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,py,ts,lua,htmx,powershell,bash,c,cpp,cs,java,kotlin,swift"> </a>
     <h3>- Frameworks and Libraries:</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,bootstrap,wordpress,laravel"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,wordpress,laravel"> </a>
     <h3>- Tools</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,replit,cloudflare,ae,au,ai,ps,pr,blender"> </a>
     <h3>- Operating Systems</h3>
