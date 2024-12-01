@@ -22,7 +22,7 @@ Life for me not for anyone else
 
 https://thanhdieu.com/
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBruhBionicVN&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
 </div>
 
@@ -33,13 +33,13 @@ https://thanhdieu.com/
 
   <p align="center">
     <h3>- Languages:</h3> 
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=powershell,bash,c,cpp,py,lua,html,css,js,dart"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,php,arduino,py,lua,htmx,powershell,bash,c,cpp,cs,java,kotlin,swift"> </a>
     <h3>- Frameworks and Libraries:</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=flutter,selenium,fastapi,gtk,qt"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,bootstrap,wordpress,laravel"> </a>
     <h3>- Tools</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,neovim,vscode,pycharm,clion,notion,anaconda,nix"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,replit,cloudflare,ae,au,ai,ps,pr,blender"> </a>
     <h3>- Operating Systems</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,linux"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows"> </a>
   </p>
 </details>
 
