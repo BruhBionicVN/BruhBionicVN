@@ -22,35 +22,21 @@ Life for me not for anyone else
 
 
 ##### Password Manager
-https://hosting3wn.id.vn/
-<br>
 https://dvcode.id.vn/
 
 ##### JS Obfuscator
-https://obf.hosting3wn.id.vn/
-<br>
 https://obf.dvcode.id.vn/
 
 ##### PHP Encoder
-https://phpenc.hosting3wn.id.vn/
-<br>
 https://phpenc.dvcode.id.vn/
 
 ##### PHP Editor
-https://onlinephp.hosting3wn.id.vn/
-<br>
 https://onlinephp.dvcode.id.vn/
 
 ##### More Tools (Text to Speech, WHOIS domain, ASCII Maker)
-https://test.hosting3wn.id.vn/
-<br>
 https://test.dvcode.id.vn/
 <br>
-https://test.hosting3wn.id.vn/whois
-<br>
 https://test.dvcode.id.vn/whois
-<br>
-https://test.hosting3wn.id.vn/ascii-maker
 <br>
 https://test.dvcode.id.vn/ascii-maker
 
