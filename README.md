@@ -5,7 +5,7 @@
   <h1><pre>Hi, I'm qmdz08 (Nothing)</pre></h1>
 </div>
 
-Life for me not for anyone else
+Life for me not for anyone else 
 
 ### My Stack
 
