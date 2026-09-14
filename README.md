@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/I5T0Zin.jpeg" alt="lmkdzaicogisai-banner" style="border-radius: 15px;">
 <div align="center">
-  <h1><pre>Hi, I'm lmkdz (Nothing)</pre></h1>
+  <h1><pre>Hi, I'm lmk (Nothing)</pre></h1>
 </div>
 
 Life for me not for anyone else 
