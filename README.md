@@ -14,9 +14,9 @@ Life for me not for anyone else
 ![tools](https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhbionicvn&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wusthanhdieu">
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhbionicvn&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="lmkdzaicogisai">
+</p> -->
 
 ### You can checkout my website
 
@@ -43,7 +43,7 @@ https://test.dvcode.dpdns.org/whois
 <br>
 https://test.dvcode.dpdns.org/ascii-maker
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBruhBionicVN&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FBruhBionicVN%2F&label=BruhBionicVN&icon=github&color=%23198754&message=&style=flat&tz=UTC)
  
 </div>
 
