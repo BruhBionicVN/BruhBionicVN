@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
+<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="lmkdzaicogisai-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm qmdz08 (Nothing)</pre></h1>
 </div>
@@ -21,24 +21,27 @@ Life for me not for anyone else
 ### You can checkout my website
 
 
+##### Main Website
+https://dvcode.dpdns.org/
+
 ##### Password Manager
-https://dvcode.id.vn/
+https://passmgr.dvcode.dpdns.org/
 
 ##### JS Obfuscator
-https://obf.dvcode.id.vn/
+https://obf.dvcode.dpdns.org/
 
 ##### PHP Encoder
-https://phpenc.dvcode.id.vn/
+https://phpenc.dvcode.dpdns.org/
 
 ##### PHP Editor
-https://onlinephp.dvcode.id.vn/
+https://onlinephp.dvcode.dpdns.org/
 
 ##### More Tools (Text to Speech, WHOIS domain, ASCII Maker)
-https://test.dvcode.id.vn/
+https://test.dvcode.dpdns.org/
 <br>
-https://test.dvcode.id.vn/whois
+https://test.dvcode.dpdns.org/whois
 <br>
-https://test.dvcode.id.vn/ascii-maker
+https://test.dvcode.dpdns.org/ascii-maker
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBruhBionicVN&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
@@ -57,7 +60,7 @@ https://test.dvcode.id.vn/ascii-maker
     <h3>- Tools:</h3>
     <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,replit,cloudflare,ae,au,ai,ps,pr,blender"> </a>
     <h3>- Operating Systems:</h3>
-    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows"> </a>
+    <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=windows,ubuntu,macos"> </a>
   </p>
 </details>
 
